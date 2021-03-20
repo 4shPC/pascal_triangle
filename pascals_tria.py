@@ -18,6 +18,6 @@ def pascals_tria(n):
     return pascal_triangle    
 
 if __name__ == '__main__':
-    for bruh in pascals_tria(69):
+    for bruh in pascals_tria(10):
         print(bruh)
 
